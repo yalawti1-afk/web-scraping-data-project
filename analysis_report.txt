@@ -1,0 +1,12 @@
+BOOK DATA ANALYSIS REPORT
+==============================
+Total books after cleaning: 20
+Average price: £38.05
+Median price: £41.38
+Minimum price: £13.99
+Maximum price: £57.25
+Missing prices: 0
+
+Availability counts:
+availability
+In stock    20
